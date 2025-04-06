@@ -1,13 +1,1 @@
-## Ui Lib
-```lua
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
-```
-
-## Window
-```lua
-local Window = redzlib:MakeWindow({
-  Title = "redz Hub : Blox Fruits",
-  SubTitle = "by redz9999",
-  SaveFolder = "testando | redz lib v5.lua"
-})
-```
+```game.Players.LocalPlayer.Character.Humanoid.JumpPower```
