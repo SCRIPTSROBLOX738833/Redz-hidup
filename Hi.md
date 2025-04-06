@@ -1,5 +1,5 @@
-## Ui Lib
+## Print lua
 ```lua
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
+print("hi lua")
 ```
-## 
+
